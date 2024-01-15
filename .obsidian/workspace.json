@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Index.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "8ad8fefe28538276",
   "lastOpenFiles": [
-    "Index.md",
     "README.md",
+    "Index.md",
     "Notes/Inbox.md",
     "Notes/OpenAI ChatGPT Might be Getting Lazier, Here's How.md",
     "Notes/Areas.md",
