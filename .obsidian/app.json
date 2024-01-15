@@ -1,7 +1,8 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "Assets",
   "newFileLocation": "folder",
   "newFileFolderPath": "Notes",
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "shortest"
 }
