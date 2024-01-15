@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "146b386c6098c7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ddfc09696fb2888",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad8fefe28538276",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "261b2ba5d9d8c40e",
+    "type": "split",
+    "children": [
+      {
+        "id": "126c52f931695c72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0f2892e3ed9a483",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4baa7563612f53b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e1bd30aa10c2f0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21311fb29c23f4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d56ca10ecef1b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f3879dc32af782",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42d167a054a830f1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e627c4b60875191",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8b01ce34b9483d6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": true
+    }
+  },
+  "active": "8ad8fefe28538276",
+  "lastOpenFiles": [
+    "Index.md",
+    "README.md",
+    "Notes/Inbox.md",
+    "Notes/OpenAI ChatGPT Might be Getting Lazier, Here's How.md",
+    "Notes/Areas.md",
+    "Notes/PKM.md",
+    "Notes/Acquire Knowledge.md",
+    "Notes/Organize Knowledge.md",
+    "Notes/Process Knowledge.md",
+    "Notes/Share Knowledge.md",
+    "Notes/Obsidian.md",
+    "Notes/Atomic Note.md",
+    "Notes/Knowledge Lifecycle.md",
+    "Notes/P.A.R.A.md",
+    "Notes/PKM Tools.md",
+    "Notes/PKM Methods and Theories.md",
+    "Notes/Untitled.canvas",
+    "Notes/Do Things that Don't Scale.md",
+    "Notes/Movies.md",
+    "Dashboard.md",
+    "Notes/Projects.md",
+    "Notes/Books.md",
+    "Action Dashboard.md",
+    "Assets/Pasted image 20240112154136.png",
+    "Assets/Pasted image 20240112131736.png",
+    "Templates/Normal Note.md",
+    "Templates/Daily Note.md",
+    "Notes/Startup.md",
+    "Notes/Database.md",
+    "Assets/Pasted image 20240115121210.png",
+    "Assets/Pasted image 20240115121145.png",
+    "Assets/Pasted image 20240114171337.png",
+    "Assets/Pasted image 20240114171142.png",
+    "Cards/P12 核心玩法图.canvas",
+    "[[Cards",
+    "Sources",
+    "Cards/Marvel Snap 玩法拆解图.canvas",
+    "Journals/day/2024",
+    "Journals/day/2023",
+    "Journals/day",
+    "Journals/week",
+    "Journals/month",
+    "Journals/year",
+    "Cards/P13 - 经济系统图.canvas",
+    "Assets/P13 - 经济系统图.png",
+    "Assets/Pasted image 20240112154443.png",
+    "Assets/4e39f84a768eea80a7ea12cbdf61351.jpg",
+    "Journals",
+    "Notes"
+  ]
+}
