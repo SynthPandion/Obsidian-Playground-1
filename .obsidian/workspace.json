@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f71519ae5febd453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/PKM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "704f91fe11a35869",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Index.md",
                 "mode": "preview",
                 "source": false
@@ -85,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -97,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,14 +170,17 @@
       "command-palette:Open command palette": true
     }
   },
-  "active": "8ad8fefe28538276",
+  "active": "f0f2892e3ed9a483",
   "lastOpenFiles": [
+    "Notes/PKM.md",
     "README.md",
+    "Assets/Pasted image 20240115173723.png",
     "Index.md",
+    "Assets/Pasted image 20240115173704.png",
+    "Assets",
     "Notes/Inbox.md",
     "Notes/OpenAI ChatGPT Might be Getting Lazier, Here's How.md",
     "Notes/Areas.md",
-    "Notes/PKM.md",
     "Notes/Acquire Knowledge.md",
     "Notes/Organize Knowledge.md",
     "Notes/Process Knowledge.md",
@@ -176,7 +203,6 @@
     "Templates/Normal Note.md",
     "Templates/Daily Note.md",
     "Notes/Startup.md",
-    "Notes/Database.md",
     "Assets/Pasted image 20240115121210.png",
     "Assets/Pasted image 20240115121145.png",
     "Assets/Pasted image 20240114171337.png",
@@ -194,8 +220,6 @@
     "Cards/P13 - 经济系统图.canvas",
     "Assets/P13 - 经济系统图.png",
     "Assets/Pasted image 20240112154443.png",
-    "Assets/4e39f84a768eea80a7ea12cbdf61351.jpg",
-    "Journals",
-    "Notes"
+    "Journals"
   ]
 }
